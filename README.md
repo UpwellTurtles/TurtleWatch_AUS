@@ -13,6 +13,7 @@ Data are displayed at https://navfeas.com/forecaster/channels/aus_turtlewatch/.
 
 Data 
 data/monthly: contains the current month's leatherback intensity predictions in various formats
-	- Main product on NavFeas tool interface (): 'intensity_YYYY_MM_RYGcolormap_COG.tiff'
+
+	- Main product on NavFeas tool interface: 'intensity_YYYY_MM_RYGcolormap_COG.tiff'
 		- This is a Cloud Optimized GeoTIFF (COG) with a defined red, yellow, green colormap
 data/monthly/archive: contains previous months of leatherback intensity predictions  
